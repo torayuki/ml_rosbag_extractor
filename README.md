@@ -2,10 +2,6 @@
 
 This package is extract the rosbag for dataset of machine learning
 
-* Maintainer : Yuki Toramatsu ([toramatsu.yuki@em.ci.ritsumei.ac.jp](mailto:toramatsu.yuki@em.ci.ritsumei.ac.jp))
-* Author : Yuki Toramatsu ([toramatsu.yuki@em.ci.ritsumei.ac.jp](mailto:toramatsu.yuki@em.ci.ritsumei.ac.jp))
-
-
 ## Content
 
 [[_TOC_]]
